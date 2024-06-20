@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm thisnewbie102! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=thisnewbie102&color=blue)
 
 ## About Me
 
